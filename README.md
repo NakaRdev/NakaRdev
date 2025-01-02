@@ -8,13 +8,13 @@ I'm a passionate **developer** with a love for building efficient and creative s
 ---
 
 ## 🌟 Highlights
-- 🔧 **Current Project:** ([Ped Spawner](https://store.dvrst.fun))
+- 🔧 **Current Project:** [Ped Spawner](https://store.dvrst.fun)
 
 ---
 
 ## 💬 Connect with Me
-[![Telegram](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://t.me/nrware)
-[![Discord](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](https://discord.com/users/987620972515450912)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=google-chrome&logoColor=white)](https://t.me/nrware)
+[![Discord](https://img.shields.io/badge/-Discord-red?style=flat-square&logo=gmail&logoColor=white)](https://discord.com/users/987620972515450912)
 
 ---
 
