@@ -8,7 +8,7 @@ I'm a passionate **developer** with a love for building efficient and creative s
 ---
 
 ## 🌟 Highlights
-- 🔧 **Current Project:** [Ped Spawner](https://store.dvrst.fun) & [Report System](https://store.dvrst.fun) 
+- 🔧 **Current Project:** [Ped Spawner](https://store.dvrst.eu) & [Report System](https://store.dvrst.eu)
 
 ---
 
